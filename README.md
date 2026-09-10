@@ -60,7 +60,7 @@ Não há dependências ou processo de build — é um projeto 100% estático.
 
 ## Integrantes
 
-- _(preencher com o(s) nome(s) do(s) integrante(s) do grupo)_
+- João Matheus Marques
 
 ## Próximos passos (segunda entrega)
 
